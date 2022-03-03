@@ -1,0 +1,8 @@
+SELECT short_name, value
+FROM `bigquery-public-data.world_bank_intl_debt.country_summary` cs
+FULL JOIN  
+`bigquery-public-data.world_bank_intl_debt.international_debt` id
+ON
+cs.country_code = id.country_code
+ORDER BY id.value DESC
+
