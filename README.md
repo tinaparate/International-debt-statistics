@@ -22,5 +22,15 @@ National and regional debt statistics from World Bank
 ![image](https://user-images.githubusercontent.com/100042336/156574348-824a9f56-6eec-4b22-82b3-beac48622d90.png)
 ![image](https://user-images.githubusercontent.com/100042336/156574381-c271fbd3-b488-4fdd-b0b7-f2cef466fc70.png)
 
-6. 
+6. Find all countries name starting with C and ending with d - Countries_named.C%d - 6b3e2ebca2bb.png
+![image](https://user-images.githubusercontent.com/100042336/156574932-5bcad3ab-f00d-45eb-81db-6b3e2ebca2bb.png)
+
+7. Maximum amounts - Maximum - 97cf0b432d4a.png, 20e0e2c0d0c0.png & 35c8dd5f5bf2.png
+![image](https://user-images.githubusercontent.com/100042336/156575151-94211d66-8b58-4667-bc3f-97cf0b432d4a.png)
+![image](https://user-images.githubusercontent.com/100042336/156575179-922b3f97-cab6-47f5-acc1-20e0e2c0d0c0.png)
+![image](https://user-images.githubusercontent.com/100042336/156575210-fe32a14e-b8fe-4c6d-b647-35c8dd5f5bf2.png)
+
+
+
+
 
