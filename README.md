@@ -34,6 +34,15 @@ National and regional debt statistics from World Bank
 ![image](https://user-images.githubusercontent.com/100042336/156576343-00568ca4-b9a6-441b-8c1a-a191943b33fb.png)
 ![image](https://user-images.githubusercontent.com/100042336/156576372-efe629bd-acf7-48c5-939c-069ed65ea4b4.png)
 
+9. Country-wise Interest payments on external debt - Left join - 05d949d6f9c3.png & 5c163d52192c.png
+![image](https://user-images.githubusercontent.com/100042336/156576728-0b92c12d-f548-4251-87b8-05d949d6f9c3.png)
+![image](https://user-images.githubusercontent.com/100042336/156576822-1cd13c7c-41cf-4645-8e19-5c163d52192c.png)
+
+10. INNER JOIN on currency and description of a country’s indicator - Inner join - 2600d47439ac.png & 16ec957c0003.png
+![image](https://user-images.githubusercontent.com/100042336/156577030-22959764-d5fc-4d35-a8a5-2600d47439ac.png)
+![image](https://user-images.githubusercontent.com/100042336/156577094-3b2e2376-ded9-460f-a014-16ec957c0003.png)
+
+
 
 
 
