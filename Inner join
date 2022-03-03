@@ -1,0 +1,4 @@
+SELECT short_name, currency_unit, description 
+FROM bigquery-public-data.world_bank_intl_debt.country_summary cs
+INNER JOIN bigquery-public-data.world_bank_intl_debt.country_series_definitions csd
+ON cs.country_code = csd.country_code 
