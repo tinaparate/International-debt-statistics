@@ -1,0 +1,5 @@
+select cs.short_name, cs.country_code, id.value as Interest_payments_on_external_debt
+FROM bigquery-public-data.world_bank_intl_debt.country_summary cs 
+LEFT JOIN bigquery-public-data.world_bank_intl_debt.international_debt id
+on cs.country_code = id.country_code
+where id.indicator_name = 'Interest payments on external debt, long-term (INT, current US$)'
