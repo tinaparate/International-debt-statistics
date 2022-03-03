@@ -1,0 +1,3 @@
+SELECT AVG(value) AS average_interest_payments_on_Long_term_external_debt
+FROM `bigquery-public-data.world_bank_intl_debt.international_debt`
+WHERE indicator_code = 'DT.INT.DLXF.CD'
