@@ -1,0 +1,6 @@
+SELECT distinct system_of_national_accounts, COUNT (short_name) AS Country 
+FROM `bigquery-public-data.world_bank_intl_debt.country_summary`
+where system_of_national_accounts = 'Country uses the 2008 System of National Accounts methodology'
+or system_of_national_accounts = 'Country uses the 1993 System of National Accounts methodology'
+or system_of_national_accounts = 'Country uses the 1968 System of National Accounts methodology'
+Group by system_of_national_accounts
