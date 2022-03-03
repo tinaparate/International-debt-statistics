@@ -30,6 +30,9 @@ National and regional debt statistics from World Bank
 ![image](https://user-images.githubusercontent.com/100042336/156575179-922b3f97-cab6-47f5-acc1-20e0e2c0d0c0.png)
 ![image](https://user-images.githubusercontent.com/100042336/156575210-fe32a14e-b8fe-4c6d-b647-35c8dd5f5bf2.png)
 
+8. Country-wise debt - Outer join - a191943b33fb.png & 069ed65ea4b4.png
+![image](https://user-images.githubusercontent.com/100042336/156576343-00568ca4-b9a6-441b-8c1a-a191943b33fb.png)
+![image](https://user-images.githubusercontent.com/100042336/156576372-efe629bd-acf7-48c5-939c-069ed65ea4b4.png)
 
 
 
