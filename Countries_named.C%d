@@ -1,0 +1,3 @@
+SELECT *
+FROM `bigquery-public-data.world_bank_intl_debt.international_debt`
+WHERE country_name LIKE 'C%' AND country_name LIKE '%d'
