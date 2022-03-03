@@ -10,4 +10,6 @@ National and regional debt statistics from World Bank
 ![image](https://user-images.githubusercontent.com/100042336/156571941-b9fd8416-4622-4b9b-b5c0-b4bb47d7e142.png)
 ![image](https://user-images.githubusercontent.com/100042336/156571960-574f29b6-e9b7-441b-a72b-7a6b5f185c0f.png)
 
+3. Top 10 Country-wise principal repayments - Top10_repayments - 1520469e891f.png
+![image](https://user-images.githubusercontent.com/100042336/156572375-3883888e-cf43-4d9a-9084-1520469e891f.png)
 
