@@ -1,0 +1,5 @@
+SELECT year, country_name, value 
+FROM `bigquery-public-data.world_bank_intl_debt.international_debt`
+WHERE indicator_name = 'Disbursements on external debt, public and publicly guaranteed (PPG) (DIS, current US$)'
+order by value desc
+LIMIT 10
