@@ -1,0 +1,5 @@
+SELECT year, country_name, value 
+FROM `bigquery-public-data.world_bank_intl_debt.international_debt`
+WHERE indicator_name = 'Principal repayments on external debt, public and publicly guaranteed (PPG) (AMT, current US$)' 
+order by value desc
+LIMIT 10
