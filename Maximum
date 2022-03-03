@@ -1,0 +1,6 @@
+SELECT indicator_name, MAX (value) AS maximum_amount
+FROM `bigquery-public-data.world_bank_intl_debt.international_debt`
+WHERE indicator_name = 'PPG, commercial banks (DIS, current US$)'
+OR indicator_name = 'PPG, private creditors (DIS, current US$)'
+OR indicator_name = 'PPG, other private creditors (DIS, current US$)'
+group by indicator_name
