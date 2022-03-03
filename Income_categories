@@ -1,0 +1,4 @@
+select  income_group, COUNT (short_name) as Number_of_countries
+FROM `bigquery-public-data.world_bank_intl_debt.country_summary`
+where income_group = 'Low income'or income_group ='Lower middle income'or income_group ='Upper middle income'
+Group by income_group
